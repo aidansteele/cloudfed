@@ -1,0 +1,7 @@
+/idp/bootstrap
+/idp/lambda.zip
+/lambda.zip
+/tfoutput.json
+/myvars.auto.tfvars
+/terraform.tfstate
+/terraform.tfstate.backup
